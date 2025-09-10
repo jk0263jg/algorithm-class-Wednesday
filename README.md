@@ -1,1 +1,1 @@
-# Algorithm002
+# algorithm-class-Wednesday
